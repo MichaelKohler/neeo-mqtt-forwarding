@@ -1,0 +1,8 @@
+{
+  "brainIP": "localhost",
+  "mqttURL": "tcp://mqtt.example.com",
+  "mqttTopicRoot": "",
+  "mqttUsername": "",
+  "mqttPassword": "",
+  "updateIntervalInMs": 60000
+}

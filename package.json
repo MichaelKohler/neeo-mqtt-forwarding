@@ -1,0 +1,30 @@
+{
+  "name": "neeo-mqtt-forwarding",
+  "version": "0.0.1",
+  "description": "Forward sensor values and active recipes through MQTT on regular basis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelKohler/neeo-mqtt-forwarding.git"
+  },
+  "keywords": [
+    "neeo",
+    "mqtt",
+    "sensors"
+  ],
+  "author": "Michael Kohler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelKohler/neeo-mqtt-forwarding/issues"
+  },
+  "homepage": "https://github.com/MichaelKohler/neeo-mqtt-forwarding#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "debug": "^3.1.0",
+    "mqtt": "^2.18.8"
+  }
+}

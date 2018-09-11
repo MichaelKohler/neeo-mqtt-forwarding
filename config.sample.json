@@ -4,6 +4,8 @@
   "mqttTopicRoot": "",
   "mqttUsername": "",
   "mqttPassword": "",
+  "mqttGroupByDataType": false,
+  "mqttUseNumbersForBooleans": false,
   "updateIntervalInMs": 60000,
   "forwardSensorValues": true,
   "forwardActiveRecipes": true

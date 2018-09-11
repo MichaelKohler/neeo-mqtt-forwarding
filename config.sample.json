@@ -4,5 +4,7 @@
   "mqttTopicRoot": "",
   "mqttUsername": "",
   "mqttPassword": "",
-  "updateIntervalInMs": 60000
+  "updateIntervalInMs": 60000,
+  "forwardSensorValues": true,
+  "forwardActiveRecipes": true
 }

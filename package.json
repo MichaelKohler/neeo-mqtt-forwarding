@@ -25,6 +25,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "debug": "^3.1.0",
+    "lodash.flow": "^3.5.0",
     "mqtt": "^2.18.8"
   }
 }
